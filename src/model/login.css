@@ -1,0 +1,11 @@
+.lableImage{
+    -fx-background-image: url("monkey.png");
+    -fx-background-size: 525 298;
+
+
+}
+
+.root{
+        -fx-background-color:yellow;
+
+}
